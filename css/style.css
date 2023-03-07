@@ -6,8 +6,8 @@
 
 .game-board{
     width: 100%;
-    height: 500px;
-    border-bottom: 20px solid #59941F;
+    height: 100vh;
+    border-bottom: 25px solid #59941F;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
